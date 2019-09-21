@@ -1,7 +1,0 @@
-server:
-     port: 8081
-     context-path: /springBoot
-first: 
-   name: zuohuilong
-   age: 18
-   

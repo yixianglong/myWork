@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="bootFirst/src/main/java"/>
+	<classpathentry kind="src" path="bootFirst/src/test/java"/>
+	<classpathentry kind="src" path="ceshi/src"/>
+	<classpathentry kind="lib" path="bootFirst/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="bootFirst/target/classes"/>
+</classpath>
